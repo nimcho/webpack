@@ -18,6 +18,9 @@
     "vue-router": "^3.0.1"{{/router}}
   },
   "devDependencies": {
+    "less": "^3.0.0-alpha.3",
+    "less-loader": "^4.0.5",
+    "v-hotkey": "^0.2.0",
     "autoprefixer": "^7.1.2",
     "babel-core": "^6.22.1",
     {{#lint}}
